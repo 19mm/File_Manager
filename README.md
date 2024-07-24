@@ -11,12 +11,7 @@
 
 ## How It Works
 - The script lists all files in the current directory.
-- It categorizes the files into:
-Images (.png, .jpg, .jpeg)
-Documents (.docx, .doc, .pdf, .txt)
-Media (.mp4, .mp3, .flv)
-Applications (.exe)
-Others (files that do not fit into the above categories)
+- It categorizes the files into: Images (.png, .jpg, .jpeg), Documents (.docx, .doc, .pdf, .txt), Media (.mp4, .mp3, .flv), Applications (.exe), Others (files that do not fit into the above categories)
 - It creates folders for each category if they do not already exist.
 - It moves the files into their respective folders and prints the progress in the terminal.
 
